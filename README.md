@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Welcome to my Github profile. Here i'll register all my jouney on coding
+#### Welcome to my Github profile. Here i'll register all my journey on coding
 -----------
 <!--
 **checkioname/checkioname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
