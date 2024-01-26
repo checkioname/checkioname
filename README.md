@@ -1,12 +1,17 @@
 ### Hi there 👋
-
-
-#### Welcome to my Github profile. Here i'll register all my journey on coding
 -----------
+
 <!--
 **checkioname/checkioname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=checkioname&theme=tokyonight)](https://github.com/checkioname/github-readme-stats) 
-![Snake animation](https://github.com/checkioname/checkioname/blob/output/github-contribution-grid-snake.svg)
+
+
+<br>
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=50 width=50 align="center"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height=50 width=50 align="center"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height=50 width=50 align="center"/>
+</div>
