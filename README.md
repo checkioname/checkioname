@@ -6,7 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=checkioname&theme=nord)](https://github.com/checkioname/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=checkioname&layout=compact&theme=transparent&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <!-- <div style="display: inline_block justify-content: space-between padding:5px">
